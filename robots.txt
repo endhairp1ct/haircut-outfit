@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://endhairp1ct.github.io/haircut-outfit/sitemapx.xml
